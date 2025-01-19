@@ -1,0 +1,256 @@
+.thanh1{
+	li{display:inline-block}
+	h1{font-size:300%;}
+	li{font-size:175%;}
+	li{Padding:1.5%}
+	background-color:green;
+	h1{color:white;}
+	li{color:white;}
+	a{color:white;}
+}
+.hang1{
+	color:white;
+}
+/*nd1*/
+.tieude{
+	color:white;
+	font-size:200%;
+	/*Background: linear-gradient(To right, red, blue 5%)*/
+	Background: linear-gradient(red 5%, blue)
+}
+.tong{
+	margin-left:25%;
+	margin-right:25%;
+}
+.anh1{
+	width:100%
+}
+input{
+	display:none;
+}
+.lcn,.lcn2,.lcn3,.lcn4,.lcn5,.lcn6,.lcn7,.lcn8,.lcn9,.lcn11,.lcn12,.lcn13,.lcn14,.lcn15,.lcn16,.lcn17{
+	display:none;
+}
+.lcn5,.lcn6,.lcn7,.lcn2,.lcn3,.lcn9,.lcn11,.lcn12,.lcn13,.lcn14,.lcn15,.lcn16,.lcn17{
+	color:blue;
+	font-size:70%;
+	text-indent:5%
+}
+.o1,.o2,.o3,.o4{
+	margin-left:10%;
+	margin-right:15%;
+	font-size:20px;
+	
+}
+h2{
+	color:purple;
+	font-size:120%;
+	
+	
+}
+h4{
+	color:brown;
+	font-size:120%;
+}
+.ql{
+	margin-left:45%;
+	border: solid;
+}
+.nguon{
+	margin-left:40%;
+	font-size:110%;
+	margin-top:-1.5%;
+}
+#l1:checked~.lcn{
+	
+	display:block;
+}
+#l2:checked~.lcn2{
+	
+	display:block;
+}
+#l3:checked~.lcn3{
+	
+	display:block;
+}
+#l4:checked~.lcn4{
+	
+	display:block;
+}
+#l5:checked~.lcn5{
+	
+	display:block;
+}
+#l6:checked~.lcn6{
+	
+	display:block;
+}
+#l7:checked~.lcn7{
+	
+	display:block;
+}
+#l9:checked~.lcn9{
+	
+	display:block;
+}
+#l8:checked~.lcn8{
+	
+	display:block;
+}
+#l11:checked~.lcn11{
+	
+	display:block;
+}
+#l12:checked~.lcn12{
+	
+	display:block;
+}
+#l13:checked~.lcn13{
+	
+	display:block;
+}
+#l14:checked~.lcn14{
+	
+	display:block;
+}
+#l15:checked~.lcn15{
+	
+	display:block;
+}
+#l16:checked~.lcn16{
+	
+	display:block;
+}
+#l17:checked~.lcn17{
+	
+	display:block;
+}
+label{
+	display:block;
+}
+.td2{
+	font-size:120%;
+}
+.td{
+	color:red;
+	font-size:70%;
+	text-indent:3%
+}
+.tua{
+	font-size: 150%;
+	color:blue;
+	margin-top:-1%;
+	margin-Bottom:1%;
+}
+.noidung{
+	font-size:130%;
+	text-indent:5%
+}
+.tua2{
+	margin-left:4%;
+	font-size: 150%;
+	color:red;
+	margin-top:-1%;
+	margin-Bottom:1%;
+}
+.noidung2{
+	margin-left:4%;
+	font-size:130%;
+	text-indent:5%
+}
+.tua3{
+	font-size: 150%;
+	color:blue;
+	margin-top:-1%;
+	margin-Bottom:1%;
+}
+.noidung3{
+	font-size:170%;
+	text-indent:5%
+}
+.cuoitrang{
+	background-color:green;
+	height:100px;
+}
+.chucuoi{
+	color:white;
+	text-align: center;
+	Padding:30px 0px 0px 0px;
+}
+.chucuoi2{
+	margin-top:-10px;
+	color:white;
+	text-align: center;
+}
+.a1:link{
+	color:orange;
+	text-decoration: none;
+}
+.a1:visited{
+	color:navy;
+	text-decoration: underline;
+}
+.a1:hover{
+	color:fuchsia;
+	text-decoration: underline;
+}
+.a1:active{
+	color:green;
+	text-decoration: underline;
+}
+
+
+
+.ql:link{
+	color:orange;
+	text-decoration: none;
+}
+.ql:visited{
+	color:navy;
+	text-decoration: underline;
+}
+.ql:hover{
+	color:red;
+	text-decoration: underline;
+}
+.ql:active{
+	color:green;
+	text-decoration: underline;
+}
+
+
+
+.abc:link{
+	color:orange;
+	text-decoration: none;
+}
+.abc:visited{
+	color:navy;
+	text-decoration: underline;
+}
+.abc:hover{
+	color:lime;
+	text-decoration: underline;
+}
+.abc:active{
+	color:green;
+	text-decoration: underline;
+}
+
+
+.td:link{
+	color:orange;
+	text-decoration: none;
+}
+.td:visited{
+	color:navy;
+	text-decoration: underline;
+}
+.td:hover{
+	color:blue;
+	text-decoration: underline;
+}
+.td:active{
+	color:green;
+	text-decoration: underline;
+}
